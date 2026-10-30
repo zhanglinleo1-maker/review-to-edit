@@ -9,6 +9,9 @@
 
 映记负责素材回顾、录音、识别与资料交接；本Skill指导支持Skill的Agent完成创作与剪辑。使用本Skill不自动取得素材、云服务或编辑器权限。
 
+
+国内镜像：https://gitee.com/zhanglinleo1-maker/review-to-edit （维护者手动同步，版本与附件以实际内容为准）。
+
 ## 安装与开始使用
 
 把本仓库作为名为 `review-to-edit` 的Skill安装到支持 `SKILL.md` 的Agent环境，保留references和scripts目录；也可让Agent先读取本仓库SKILL.md及其引用。可从本仓库Releases下载完整ZIP。
