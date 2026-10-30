@@ -5,6 +5,7 @@
 ## 映记应用下载
 
 - [映记发布与下载仓库](https://github.com/zhanglinleo1-maker/yingji-releases)
+- [国内映记应用下载（Gitee发行版）](https://gitee.com/zhanglinleo1-maker/yingji-releases/releases)：以对应版本实际附件为准。
 - [映记安装包与版本说明](https://github.com/zhanglinleo1-maker/yingji-releases/releases)
 
 映记负责素材回顾、录音、识别与资料交接；本Skill指导支持Skill的Agent完成创作与剪辑。使用本Skill不自动取得素材、云服务或编辑器权限。
