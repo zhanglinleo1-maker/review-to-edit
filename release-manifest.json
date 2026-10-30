@@ -1,0 +1,18 @@
+{
+  "version": "0.5.11-public.1",
+  "source_version": "0.5.11",
+  "license": "MIT",
+  "author": "zhanglinleo1-maker",
+  "files_sha256": {
+    "LICENSE": "5261bd0ab006fa3d397bf408473eba36617f7b94746b5e672b81b5bee943020e",
+    "README.md": "3041312b86e720cff6766ca1a38e26bafdec331783d42d26ebe4028d53a11ae7",
+    "SKILL.md": "1e252ac932ee8bf0d92a4059c66e4e10fcc57b0c9bdf72e8d613b36a9b573647",
+    "docs/AI粗剪执行详细规则.md": "09f855919ea830d676ccb1b9e0598ac17e920101d205a32990b13be26855eb0f",
+    "docs/AI素材整理与剪辑协作规则.md": "d84acb2b5de55b2a2814d738e6ead3fd0b86a7900360161633e59ece9a17c9c7",
+    "references/contracts.md": "f7d78c0b8051085c0cd5e2bc21b9268921cba2833a58175a58f7cd01c07ded64",
+    "references/editors.md": "4ba82e8dab2d6bf9a9185efa7636ab789d63deb789ad8221d741f67a2ca449ee",
+    "references/personal-healing-narration.md": "855727168aea6de2c24abbc2b19bce43a798a007103a2a20a7dcebfc668971d3",
+    "references/workflow.md": "efeae43e782ffce6b015628c17f59d46cb7a0de1b71002b2daa4a930b157c7e3",
+    "scripts/jianying_editable.py": "5cff60b2eab37cc5b4ee2db711e72e08d5f3464ad7bbec164a4ad8d5e8ea652f"
+  }
+}
